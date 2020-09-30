@@ -34,6 +34,7 @@ class Solution:
             print ( node.val )
             node = node.next
 
+
 if __name__ == '__main__':
     ll1, ll1.next, ll1.next.next = ListNode(2), ListNode(3), ListNode(5)
     ll2, ll2.next, ll2.next.next = ListNode(4), ListNode(7), ListNode(15)
